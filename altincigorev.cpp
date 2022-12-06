@@ -2,7 +2,7 @@
 #define _USE_MATH_DEFINES // M_PI
 #include <cmath>
 
-int count = 0;
+int count =0;
 
 struct RegularPolygon {
 	
