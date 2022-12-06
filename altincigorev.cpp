@@ -26,7 +26,6 @@ public:
 	}
 	
 	double area(double length){
-		std::cout << "tan: " << tan(angle/2) << std::endl;
 		return n * length * length / tan(angle/2) / 4;
 	}
 	
